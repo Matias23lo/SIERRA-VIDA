@@ -1,0 +1,7 @@
+{
+  "name": "piensa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
